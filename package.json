@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "Generates a list of employee information based on user's input",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtguenthner/Team_Profile_Generator.git"
+  },
+  "keywords": [
+    "profile",
+    "employee",
+    "team",
+    "generator"
+  ],
+  "author": "Taylor Guenthner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtguenthner/Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/wtguenthner/Team_Profile_Generator#readme"
+}
