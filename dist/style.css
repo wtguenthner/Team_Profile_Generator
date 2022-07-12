@@ -1,0 +1,93 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+nav{
+    background-color: #051923;
+    height:20vh;
+    text-align: center; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+main{
+    background-color: #0582CA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 50px;
+    height: auto;
+}
+
+h1{
+    color: white;
+    font-size: 48pt;
+}
+
+#team{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width:65%;
+    height: auto;  
+}
+
+.employee{
+    background-color: #006494;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    margin: 15px;
+    height: 100%;
+    width: 30%;
+    border-radius: 5px;
+    box-shadow: 13px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.title{
+    background-color:#00A6FB;
+    height: 40%;
+    margin: 0;
+    padding: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+h2{
+    margin: 0;
+}
+
+ul{
+    padding: 10px;
+    list-style: none;
+    margin:5px;
+    margin-top: 20px;
+}
+
+li{
+    color: white;
+    font-size: 14pt;
+    background-color: #003554;
+    margin: 5px;
+    padding:5px;
+    border-radius: 5px;
+    
+}
+h2,h3{
+    color: #051923;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    opacity: 30%;
+}
