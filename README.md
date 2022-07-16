@@ -6,7 +6,7 @@ This application uses inquirer to gather users input for new employees and then 
 
 ## Demo
 
-[Application Video](https://drive.google.com/file/d/1EjWJC6nDVIPhxgMAN1T-EAWjS67M2G3N/view)
+![Application Video](https://drive.google.com/file/d/1EjWJC6nDVIPhxgMAN1T-EAWjS67M2G3N/view)
 
 
 ## Authors
