@@ -25,7 +25,7 @@ To deploy this project run
 
 ## Installation
 
-Needed: Inquirer, Jest, [Babel](https://babeljs.io/setup#installation)
+Needed: Inquirer, Jest, [Babel](https://babeljs.io/setup#installation) (select Jest as the tool)
 
 ```bash
   npm i inquirer
@@ -47,5 +47,5 @@ To run tests, run the following command
 
 ## Screenshots
 
-![App Screenshot]((https://drive.google.com/file/d/1T2n-48cZVfy-8dBBd9craBAUq9MUd1bq/view?usp=sharing))
+![App Screenshot](https://drive.google.com/file/d/1T2n-48cZVfy-8dBBd9craBAUq9MUd1bq/view?usp=sharing)
 
