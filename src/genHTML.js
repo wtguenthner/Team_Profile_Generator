@@ -44,7 +44,7 @@ const genHTML = roles => {
         <ul>
             <li>ID: ${obj.id}</li>
             <li>Email: <a href="mailto:${obj.email}">${obj.email}</a></li>
-            <li>Git Hub: <a href="https://www.github.com/${obj.gitHub}" target="_blank" rel="noopener noreferrer">${obj.gitHub}</li>
+            <li>Git Hub: <a href="https://www.github.com/${obj.gitHub}" target="_blank" rel="noopener noreferrer">${obj.gitHub}</a></li>
         </ul>
     </div>`
     })
